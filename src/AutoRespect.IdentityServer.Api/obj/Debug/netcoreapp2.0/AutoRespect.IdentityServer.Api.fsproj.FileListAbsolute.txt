@@ -1,0 +1,8 @@
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\bin\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.deps.json
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\bin\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.runtimeconfig.json
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\bin\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.runtimeconfig.dev.json
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\bin\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.dll
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\bin\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.pdb
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\obj\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.fsproj.CoreCompileInputs.cache
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\obj\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.dll
+C:\Workspace C#\autorespect2.0-identityserver\src\AutoRespect.IdentityServer.Api\obj\Debug\netcoreapp2.0\AutoRespect.IdentityServer.Api.pdb
